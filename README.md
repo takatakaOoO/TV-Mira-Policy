@@ -7,6 +7,8 @@
  https://groups.google.com/g/tv-mira-close-tester
 
 
+
+
 # 📺 TV-Mira
 
 <p align="center">
@@ -38,9 +40,6 @@
 ## ⚠️ 開発上の注意点
 - **API制限**: MirakurunのAPI仕様変更に追従する必要があります。
 - **デコーダー**: 一部の機種や古い端末ではハードウェアデコーダーが正常に動作しない場合があります（設定で切り替え推奨）。
-
-## 📝 開発ポリシー
-本プロジェクトは、LLMエージェントによる開発を前提とした厳格なポリシーの下で管理されています。詳細は [LLM_DEVELOPMENT_POLICY.md](docs/LLM_DEVELOPMENT_POLICY.md) を参照してください。
 
 ## 📄 ライセンス
 このプロジェクトはプライベートリポジトリです。
