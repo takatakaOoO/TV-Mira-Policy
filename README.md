@@ -1,4 +1,4 @@
-# TV-Mira-Policy
+# [TV-Mira-Policy](https://takatakaooo.github.io/TV-Mira-Policy/)
 下記のアプリケーションのマニュアルとプライバシーポリシーです。
 
 **クローズテスター募集中**
