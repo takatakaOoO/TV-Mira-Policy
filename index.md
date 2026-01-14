@@ -1,4 +1,4 @@
-# プライバシーポリシー
+# [プライバシーポリシー](https://github.com/takatakaOoO/TV-Mira-Policy)
 
 **最終更新日: 2026年1月3日**
 
@@ -38,7 +38,7 @@ AdMob は、ユーザーの興味に応じた広告を表示するため、以�
 
 ## 5. お問い合わせ
 本プライバシーポリシーに関するお問い合わせは、以下の GitHub リポジトリの Issue までお願いいたします。
-https://github.com/takatakaOoO/TV-Mira-Policy
+[https://github.com/takatakaOoO/TV-Mira-Policy](https://github.com/takatakaOoO/TV-Mira-Policy)
 
 ## 6. プライバシーポリシーの変更
 本ポリシーの内容は、法令改正やアプリの機能変更に伴い、予告なく変更される場合があります。変更後のポリシーは、本ページに掲載された時点から効力を生じるものとします。
